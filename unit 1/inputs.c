@@ -4,7 +4,7 @@ int num1; //Declarando mi variable
 int num2;
 
 int main(){
-
+    
     //Imprimir un mensaje//
     printf("Enter number1: \n\tnum1: ");
     //* Inputs *//
