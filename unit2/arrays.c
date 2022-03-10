@@ -12,7 +12,7 @@ int main(){
             if(i < 2){
                 printf(",");
             }
-            i++;
+            i+1;
         }
     }
 
