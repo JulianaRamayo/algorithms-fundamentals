@@ -6,7 +6,6 @@ int main(){
 
     printf("My array is:\n");
     printf("[");
-    //void//
     void printArray(int myArray[3], int arrayLenght){
         while(i < 3){
             printf("%d", myArray[i]);
@@ -16,7 +15,7 @@ int main(){
             i++;
         }
     }
-    //print//
+
     printArray(myArray, 3);
     printf("]\n");
 
