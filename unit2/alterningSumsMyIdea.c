@@ -11,7 +11,7 @@ int main(){
     
     printf("Alterning sums");
     printf("Team 1");
-    for (i = 0; i + 2){
-        int sum1 = i
-    }
+    for (i = 0; i / 2; i + 2){
+        resultado[0] = resultado[0] +  arr[i];
+    };
 }
