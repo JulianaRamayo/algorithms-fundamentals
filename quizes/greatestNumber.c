@@ -2,12 +2,12 @@
 
 int greatest(int arr[], int lenght){
     int max;
-    for (int i =0; i < lenght -1; i++){
-        if (arr[i]> arr [i+1]){
+    for (int i = 0; i < lenght - 1; i++){
+        if (arr[i] > arr [i + 1]){
             max = arr[i];
         }
         else{
-            max = arr[i+1];
+            max = arr[i + 1];
         }
     }
     return max;
